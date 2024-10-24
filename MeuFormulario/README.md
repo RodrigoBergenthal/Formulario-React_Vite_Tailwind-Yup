@@ -1,6 +1,6 @@
  # Frontend Fusion - Formulário de Cadastro de Membros
 
-![Logo do Projeto](./public/tela%20inicial.png) 
+![Logo do Projeto](./public/tela%20inicial.png)  atualizado
 
 ## Descrição do Projeto
 
