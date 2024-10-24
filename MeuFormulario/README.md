@@ -1,6 +1,6 @@
  # Frontend Fusion - Formulário de Cadastro de Membros
 
-![Logo do Projeto](https://via.placeholder.com/150) <!-- Adicione o link da imagem logo do projeto aqui -->
+![Logo do Projeto](./public/tela%20inicial.png) 
 
 ## Descrição do Projeto
 
@@ -11,8 +11,11 @@ O projeto "Frontend Fusion - Formulário de Cadastro de Membros" é uma aplicaç
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
 - **Vite**: Bundler moderno que facilita a criação de projetos React.
 - **Tailwind CSS**: Framework CSS utilitário para estilização rápida e responsiva.
+- **tailwindcss-animated**: ANIMAÇÕES.
 - **Yup**: Biblioteca para validação de esquemas de dados em JavaScript.
 - **React Hook Form**: Biblioteca para gerenciamento de formulários no React com validações avançadas.
+
+
 
 ## Funcionalidades
 
