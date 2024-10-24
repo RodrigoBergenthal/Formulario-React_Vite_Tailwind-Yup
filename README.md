@@ -1,6 +1,9 @@
+  # Publicado em: https://formulario-react-vite-tailwind-yup--seven.vercel.app/
+ 
+ 
  # Frontend Fusion - Formulário de Cadastro de Membros
 
-![Logo do Projeto](./public/tela%20inicial.png)  atualizado
+![Logo do Projeto](./public/tela%20inicial.png)
 
 ## Descrição do Projeto
 
