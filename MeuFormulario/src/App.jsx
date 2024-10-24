@@ -28,7 +28,9 @@ const positions = [
 const validationSchema = Yup.object().shape({
   fullName: Yup.string().required('Nome completo é obrigatório'),
   email: Yup.string().email('E-mail inválido').required('E-mail é obrigatório'),
-  phone: Yup.string().required('Telefone é obrigatório'),
+  phone: Yup.string()
+    .matches(/^[0-9]+$/, 'Apenas números são permitidos') // Validação para aceitar apenas números no campo telefone
+    .required('Telefone é obrigatório'),
   position: Yup.string().required('Cargo pretendido é obrigatório')
 });
 
