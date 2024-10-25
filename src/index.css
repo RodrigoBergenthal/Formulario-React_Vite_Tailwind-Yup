@@ -3,3 +3,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (max-width: 660px) {
+    .text-6xl {
+      font-size: 2rem;
+    }
+    .p-4 {
+      padding: 1rem;
+    }
+  }
