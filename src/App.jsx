@@ -93,7 +93,7 @@ function App() {
           />
         </form>
         <p className="text-center mt-4 text-gray-500">
-          React + Vite com YUP por Rodrigo Bergenthal!
+          React + Vite com YUP por Rodrigo Bergenthal
         </p>
       </div>
     </nav>
