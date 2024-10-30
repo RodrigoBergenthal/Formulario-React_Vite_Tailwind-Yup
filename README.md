@@ -1,4 +1,4 @@
-  # Publicado em: https://formulario-react-vite-yup-animation.vercel.app/
+  # Veja o projeto publicado Publicado em: https://formulario-react-vite-yup-animation.vercel.app/
  
  
  # Frontend Fusion - Formulário de Cadastro de Membros
